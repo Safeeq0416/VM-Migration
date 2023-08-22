@@ -9,8 +9,8 @@
         "s3:ListBucket"
       ],
       "Resource": [
-        "arn:aws:s3:::mymigration1",
-        "arn:aws:s3:::mymigration1/*"
+        "arn:aws:s3:::bucketname",
+        "arn:aws:s3:::bucketname/*"
       ]
     },
     {
